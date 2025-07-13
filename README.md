@@ -91,7 +91,7 @@ A RESTful API developed for local restaurants, allowing customers to place order
    dotnet run
    ```
 
-5. Access Swagger UI at `https://localhost:5001/swagger`
+5. Access Swagger UI at `https://localhost:5114`
 
 ## 📌 Notes
 - Code comments and endpoint descriptions should be clear
