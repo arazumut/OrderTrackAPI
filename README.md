@@ -24,6 +24,7 @@ A RESTful API developed for local restaurants, allowing customers to place order
 - `POST /auth/register` - Register a new user
 - `POST /auth/login` - Login and get JWT token
 - `GET /auth/me` - Get current user information
+- 
 
 ### 🏪 Restaurant Management
 - `GET /restaurants` - Get all restaurants
