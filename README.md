@@ -11,6 +11,7 @@ A RESTful API developed for local restaurants, allowing customers to place order
 - Restaurants can only manage their own products/orders
 
 ## 🔧 Technologies
+
 - .NET 8 Web API
 - Entity Framework Core
 - Swashbuckle (Swagger UI)
