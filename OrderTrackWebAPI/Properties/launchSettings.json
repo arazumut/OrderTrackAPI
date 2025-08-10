@@ -7,7 +7,6 @@
       "applicationUrl": "http://localhost:27779",
       "sslPort": 44303
     }
-    
   },
   "profiles": {
     "http": {
@@ -40,4 +39,5 @@
     }
   }
 }
+
 
