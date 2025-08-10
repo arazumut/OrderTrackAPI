@@ -39,6 +39,7 @@ namespace OrderTrackWebAPI.Migrations
 
                     b.Property<DateTime?>("UpdatedAt")
                         .HasColumnType("TEXT");
+                        
 
                     b.Property<int>("UserId")
                         .HasColumnType("INTEGER");
