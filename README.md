@@ -9,6 +9,7 @@ A RESTful API developed for local restaurants, allowing customers to place order
 - Swagger documentation (Swashbuckle)
 - Role-based authorization: Customer, Restaurant, Courier
 - Restaurants can only manage their own products/orders
+- 
 
 
 ## 🔧 Technologies
