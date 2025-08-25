@@ -19,6 +19,7 @@ A RESTful API developed for local restaurants, allowing customers to place order
 - Swashbuckle (Swagger UI)
 - FluentValidation
 - SQLite
+- 
 - JWT Authentication
 
 ## 🚀 API Endpoints
